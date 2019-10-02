@@ -1,0 +1,62 @@
+h1 {
+    color: #FBCC06;
+}
+
+h2 {
+	color: #FFFF;
+}
+
+ol {
+	color: black;
+}
+
+ul {color: black;
+}
+
+body {background-color: #85572C;
+}
+
+img {
+	width: 300px;
+	width: 25em;
+	}
+
+label {
+	display: block;
+}
+
+input,
+label {
+	margin: .2rem 0;
+}
+
+.preference {
+    display: flex;
+    padding-left: 2px
+}
+
+form.form-example {
+    display: table;
+}
+
+label, input {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+
+label {
+    padding-right: 	10px;
+}
+
+label, input {
+border-radius: 30px;
+}
+
+select {
+	padding-left: 1px;
+	margin: 7px;	
+}
+
+
+
+
